@@ -1,0 +1,7 @@
+lesson,name,one,two
+Math,Kim,80,85
+Math,Tim,90,70
+Math,Tom,70,95
+Stat,Kate,65,90
+Stat,Alex,85,80
+Stat,Sam,55,70

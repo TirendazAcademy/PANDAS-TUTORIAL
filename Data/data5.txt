@@ -1,0 +1,6 @@
+name,score,sex
+Tim,80,NA
+Tom,,Tom
+Kate,70,n.a
+,90,K
+Kim,-5,K

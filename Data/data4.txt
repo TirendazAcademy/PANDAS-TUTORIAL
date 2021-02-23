@@ -1,0 +1,8 @@
+#hello
+name,score,sex
+#scores of students
+Tim,80,M
+Kate,85,F
+Alex,70,M
+Tom,90,M
+Kim,75,F
