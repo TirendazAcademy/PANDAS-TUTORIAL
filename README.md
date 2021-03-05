@@ -7,9 +7,9 @@
 
 ###
 
-### [Introduction to the Pandas](https://ai.plainenglish.io/introduction-to-the-pandas-library-a3a557c8d094?source=your_stories_page-------------------------------------)
-### [Indexing-Selection-Filtering in Pandas](https://ai.plainenglish.io/indexing-selection-filtering-in-pandas-library-20d3fe4a6d71?source=your_stories_page-------------------------------------)
-### [Important Methods in Pandas](https://ai.plainenglish.io/important-methods-in-pandas-2d4c774fcac9?source=your_stories_page-------------------------------------)
+### * [Introduction to the Pandas](https://ai.plainenglish.io/introduction-to-the-pandas-library-a3a557c8d094?source=your_stories_page-------------------------------------)
+### - [Indexing-Selection-Filtering in Pandas](https://ai.plainenglish.io/indexing-selection-filtering-in-pandas-library-20d3fe4a6d71?source=your_stories_page-------------------------------------)
+### + [Important Methods in Pandas](https://ai.plainenglish.io/important-methods-in-pandas-2d4c774fcac9?source=your_stories_page-------------------------------------)
 ### [Arithmetic Operations in Pandas](https://ai.plainenglish.io/arithmetic-operations-in-pandas-7ef32226e41c?source=your_stories_page-------------------------------------)
 ### [Sorting and Ranking in Pandas](https://ai.plainenglish.io/sorting-and-ranking-in-pandas-701f99aa918e?source=your_stories_page-------------------------------------)
 ### [Summarizing And Computing Descriptive Statistics in Pandas](https://medium.com/nerd-for-tech/summarizing-and-computing-descriptive-statistics-in-pandas-7320a1fec371?source=your_stories_page-------------------------------------)
