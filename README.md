@@ -5,7 +5,7 @@
 ## Here you can find the Jupyter Notebooks and Datasets I explained below.
 
 
-## Medium 👉  ![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+## Medium 👉  [![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
 ###
 
@@ -35,7 +35,7 @@
 - ### Data Visualization with Pandas - 1 
 - ### Data Visualization with Pandas - 2
 
-## YouTube 👉  [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi). 
+## YouTube 👉  [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
 
 - ### [Introduction to the Pandas](https://www.youtube.com/watch?v=IY0W0FmqBfo&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=1)
 - ### [Indexing-Selection-Filtering in Pandas](https://www.youtube.com/watch?v=zfyXuRXnrrw&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=5)
