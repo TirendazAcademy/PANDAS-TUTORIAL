@@ -32,8 +32,8 @@
 - ### [Working with Indexes in Time Series](https://levelup.gitconnected.com/working-with-indexes-in-time-series-a2e00d220399?source=your_stories_page-------------------------------------)
 - ### [Working with Time Series](https://medium.com/swlh/working-with-time-series-1-646e7040454b?source=your_stories_page-------------------------------------)
 - ### [Important Methods for Time Series in Pandas](https://levelup.gitconnected.com/important-for-time-series-in-pandas-c2c632175442?source=your_stories_page-------------------------------------)
-- ### Data Visualization with Pandas - 1 
-- ### Data Visualization with Pandas - 2
+- ### [Data Visualization with Pandas - 1](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-1-98582b69ee8b?source=your_stories_page-------------------------------------)
+- ### [Data Visualization with Pandas - 2](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-part-2-2cc8674da1d0?source=your_stories_page-------------------------------------)
 
 ## YouTube 👉  [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
 
