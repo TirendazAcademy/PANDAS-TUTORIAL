@@ -62,5 +62,8 @@
 - ### [Important Methods for Time Series in Pandas](https://www.youtube.com/watch?v=pPwgy5N4gzs&list=PLfMRLSpipmftDT2AsTrAR927QsZ9XTPhU&index=4)
 - ### [Data Visualization with Pandas - 1](https://www.youtube.com/watch?v=s4ZqzFDDJDM&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=29)
 - ### [Data Visualization with Pandas - 2](https://www.youtube.com/watch?v=I49cJgWWKf4&list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20&index=30)
+- ### [Pandas ile Veri Analizi](https://www.youtube.com/watch?v=UMu_FPeVELk&t=14s)
+- ### [Pandas Tutorial](https://www.youtube.com/watch?v=xv-1ax50BKM)
+
 
 ## Happy learning ... ✌️ 
