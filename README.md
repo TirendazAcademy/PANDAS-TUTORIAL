@@ -2,7 +2,7 @@
 
 ![](https://images.unsplash.com/photo-1569396116180-210c182bedb8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=749&q=80)
 
-## This repository contains notebooks that explain how to perform data analysis with Pandas.
+## 🔥 This repository contains notebooks that explain how to perform data analysis with Pandas. You can find the details of these notebooks in the following blog posts. If you like this repo, give me a star ✨ and share 😊
 
 
 ## Medium 👉  [![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
