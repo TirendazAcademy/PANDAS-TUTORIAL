@@ -1,11 +1,17 @@
-# Hello 😄 Welcome to Pandas Tutorial 
+# Hello Guys 😀 Welcome to Pandas Tutorials :woman_technologist: :man_technologist:
 
-![](https://images.unsplash.com/photo-1569396116180-210c182bedb8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=749&q=80)
+![](https://img.freepik.com/free-photo/hands-holding-up-colorful-letters-forming-word-data_53876-165240.jpg?w=1380&t=st=1669627961~exp=1669628561~hmac=c4a8daca3c25b1bf6a2a98d91e0fd10bc6e667d17e23368d16cff7fde4eca1af)
 
-## Here you can find the Jupyter Notebooks and Datasets I explained below.
+[![](https://img.shields.io/badge/Python-maroon.svg?&logo=python&logoColor=white)](https://python.org) [![](https://img.shields.io/badge/Pandas-navy.svg?&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![](https://img.shields.io/badge/Matplotlib-purple.svg?&logo=matplotlib&logoColor=white)](https://pandas.pydata.org/) [![](https://img.shields.io/badge/Seaborn-darkgreen.svg?&logo=seaborn&logoColor=white)](https://pandas.pydata.org/)
+
+🔥 *Pandas* is a Python library used for working with datasets. It is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool. Pandas has data structures for data analysis. The most commonly used data structures are Series and DataFrame. Series is one-dimensional. It consists of one column. DataFrame is two dimensional. It consists of rows and columns.
+
+🔥 To install Pandas, use `pip install pandas`
+
+🔥 This repository contains notebooks that explain how to do data manipulation and data analysis with Pandas. You can find the details of these notebooks in the following blog posts. If you like this repo, give me a star ✨ and share 😊
 
 
-## Medium 👉  [![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+## Medium 👉  [![](https://img.shields.io/badge/Medium-English-orange.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
 ###
 
